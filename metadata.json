@@ -1,0 +1,6 @@
+{
+  "name": "Staging Response Time Dashboard",
+  "description": "A dark, technical real-time dashboard for monitoring staging response times and latency trends during controlled web testing in Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
